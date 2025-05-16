@@ -1,7 +1,7 @@
 import pandas as pd
 import time
 import re
-from euriai import EuriaiClient  # Assuming this is the correct import for your client
+from euriai import EuriaiClient
 
 def parse_llm_response(response_text):
     """
