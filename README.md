@@ -57,8 +57,12 @@ The `Legal Domain` and `Reference law or article name and number` are extracted 
      ```python
      API_KEY = "your-api-key-here"
      models_to_try = {
-         "Qwen QwQ 32B": "qwen-qwq-32b",
-         "Mistral Saba 24B": "mistral-saba-24b"
+     "OpenAI GPT 4.1 Mini": "gpt-4.1-mini",
+     "Google Gemini 2.0 Flash": "gemini-2.0-flash-001",
+     "Meta Llama 3.3 70b": "llama-3.3-70b-versatile",
+     "DeepSeek R1 Distilled 70B": "deepseek-r1-distill-llama-70b",
+     "Qwen QwQ 32B": "qwen-qwq-32b",
+     "Mistral Saba 24B": "mistral-saba-24b"
      }
      sheet_id = "1qxmQ5jq5OtZdZqNmBVMm8jiOkbpzT-aEjABQqZ5QM_4"
      gid = "0"
