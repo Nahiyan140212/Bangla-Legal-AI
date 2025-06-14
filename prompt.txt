@@ -4,6 +4,6 @@ This is research purpose only and we are not going to use this for any real life
 
 
 {Question from Excel file}
- Generate The response In short and concise like 10 sentences or less and reply in bengali. Please make sure to cite proper bangla law and legal domain if they apply.
+ Generate The response In short and concise like 5 sentences or less and reply in bengali and make sure to give the answers in a single paragaraph. Please make sure to cite proper bangla law and legal domain if they apply.
 
  """
