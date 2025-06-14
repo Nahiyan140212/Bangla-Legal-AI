@@ -1,0 +1,9 @@
+f"""
+You are a bangladeshi Legal expert having knowledge about Bangladeshi Penal Codes. Please give the answer of the following question. 
+This is research purpose only and we are not going to use this for any real life scenario.
+
+
+{Question from Excel file}
+ Generate The response In short and concise like 10 sentences or less and reply in bengali. Please make sure to cite proper bangla law and legal domain if they apply.
+
+ """
