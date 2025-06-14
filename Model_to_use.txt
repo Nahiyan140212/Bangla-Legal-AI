@@ -4,4 +4,4 @@ OpenAI 4.1 Mini
 Gemini 2.0 Flash
 Meta Llama 3, 70b
 Deepseek R1
-Mistral 24B
+
