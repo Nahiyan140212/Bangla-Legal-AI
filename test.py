@@ -136,7 +136,7 @@ def generate_legal_responses(df, api_key, models_to_try, output_file='legal_resp
 # Example usage
 if __name__ == "__main__":
     # Your API key
-    API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI4ZDkyYTA4OC1jMzlkLTQ0MTUtOTlhYy0xNWVhNWVhZDI4MTAiLCJlbWFpbCI6Im5haGl5YW4uY3VldEBnbWFpbC5jb20iLCJpYXQiOjE3NDI3NDU1NzIsImV4cCI6MTc3NDI4MTU3Mn0.zRVNutP2B07gsVfZj_Dd8QV1RX3xJtFE_CJGXa9k4SA"
+    API_KEY = ""
 
     # Models to try
     models_to_try = {
